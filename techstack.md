@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/ai-card-game](https://github.com/yuriportfolio/ai-card-game)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/04/24 <br/>Report generated|
+|22<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
