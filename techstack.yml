@@ -2,7 +2,7 @@ repo_name: yuriportfolio/ai-card-game
 report_id: 499914f90c0d0e8d5f079131eec715f6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:49+00:00'
+timestamp: '2024-02-29T18:21:19+00:00'
 requested_by: MrKevinOConnell
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Benjamin Shafii
   last_updated_on: 2022-11-18 14:14:41.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.0.4
   open_source: true
